@@ -1,8 +1,6 @@
 import Navbar from "./Navbar";
-import Billing from "./Billing";
 import CardDeal from "./CardDeal";
 import Business from "./Business";
-import Clients from "./Clients";
 import CTA from "./CTA";
 import Question from "./Question";
 import Questions from "./Questions";
@@ -14,10 +12,8 @@ import Categories from './Categories'
 
 export {
   Navbar,
-  Billing,
   CardDeal,
   Business,
-  Clients,
   CTA,
   Question,
   Questions,

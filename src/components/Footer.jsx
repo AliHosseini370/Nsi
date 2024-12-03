@@ -1,6 +1,6 @@
 import React from 'react'
 import styles from '../style'
-import { logo, nsi_logo2 } from '../assets'
+import { nsi_logo2 } from '../assets'
 import { footerLinks, socialMedia } from '../constants'
 
 const Footer = () => (

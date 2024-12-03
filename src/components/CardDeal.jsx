@@ -1,5 +1,5 @@
 import React from 'react'
-import { card, computer_and_case } from '../assets'
+import { computer_and_case } from '../assets'
 import styles, { layout } from '../style'
 import Button from './Button'
 
