@@ -1,4 +1,4 @@
-import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
+import { people01, people02, people03, facebook, instagram, linkedin, twitter} from "../assets";
 import { FaStar } from "react-icons/fa";
 import { IoShieldCheckmark } from "react-icons/io5";
 import { FaTelegramPlane } from "react-icons/fa";
@@ -76,18 +76,18 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-3",
-    title: "انتقال پول",
-    value: "+$230M",
+    title: "محصول",
+    value: "+150",
   },
   {
     id: "stats-2",
-    title: "مورد اعتماد شرکت",
+    title: "همکاری با شرکت",
     value: "+230",
   },
   {
     id: "stats-1",
-    title: "کاربر فعال",
-    value: "+3800",
+    title: "فروش",
+    value: "+380000",
   },
 ];
 
@@ -177,24 +177,5 @@ export const socialMedia = [
     id: "social-media-4",
     icon: linkedin,
     link: "https://www.linkedin.com/",
-  },
-];
-
-export const clients = [
-  {
-    id: "client-1",
-    logo: airbnb,
-  },
-  {
-    id: "client-2",
-    logo: binance,
-  },
-  {
-    id: "client-3",
-    logo: coinbase,
-  },
-  {
-    id: "client-4",
-    logo: dropbox,
   },
 ];
