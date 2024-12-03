@@ -31,6 +31,8 @@ import gaming_case2_edited from './gaming_case2_edited.png';
 import gaming_laptop from './gaming_laptop.png';
 import gaming_headphone from './gaming_headphone.png'
 import graphic_card from './graphic_card.png';
+import computer_and_case from './computer_and_case.png'
+import nsi_logo2 from './nsi_logo2.png'
 
 export {
   airbnb,
@@ -65,5 +67,7 @@ export {
   gaming_laptop,
   gaming_headphone,
   graphic_card,
-  gaming_case2_edited
+  gaming_case2_edited,
+  computer_and_case,
+  nsi_logo2
 };

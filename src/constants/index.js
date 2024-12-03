@@ -26,23 +26,23 @@ export const features = [
   {
     id: "feature-1",
     icon: FaStar,
-    title: "پاداش ها",
+    title: "بهترین انتخاب",
     content:
-      "بهترین کارت های اعتباری ترکیبی از تبلیغات و جوایز وسوسه انگیز را ارائه می دهند",
+      "بهترین انتخاب برای نیاز های شما با بهترین قیمت برای هر بودجه ای که دارید",
   },
   {
     id: "feature-2",
     icon: IoShieldCheckmark,
     title: "100% ضمانت",
     content:
-      "ما اقدامات پیشگیرانه ای انجام می دهیم تا مطمئن شویم اطلاعات و تراکنش های شما ایمن هستند",
+      "گارانتی 24 ماهه ان اس آی سرویس ، همراه با امکان مرجوعی کالا تا 7 روز کاری ",
   },
   {
     id: "feature-3",
     icon: FaTelegramPlane,
-    title: "انتقال تراز",
+    title: "تحویل سریع",
     content:
-      "کارت اعتباری انتقال موجودی می تواند پول زیادی را در هزینه های بهره صرفه جویی کند",
+      "پشتیبانی سریع توسط پشتیبانان و ارسال سریع کالا به دست شما در سراسر ایران",
   },
 ];
 
@@ -106,14 +106,14 @@ export const footerLinks = [
     ],
   },
   {
-    title: "جامعه",
+    title: "تماس با ما",
     links: [
       {
         name: "راهنمایی",
         link: "https://www.hoobank.com/help-center/",
       },
       {
-        name: "همکاران",
+        name: "سوالات متداول",
         link: "https://www.hoobank.com/partners/",
       },
       {
@@ -125,7 +125,7 @@ export const footerLinks = [
         link: "https://www.hoobank.com/blog/",
       },
       {
-        name: "نامه ها",
+        name: "قوانین و شرایط",
         link: "https://www.hoobank.com/newsletters/",
       },
     ],
@@ -142,7 +142,7 @@ export const footerLinks = [
         link: "https://www.hoobank.com/how-it-works/",
       },
       {
-        name: "ساختن",
+        name: "درباره ما",
         link: "https://www.hoobank.com/create/",
       },
       {

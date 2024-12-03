@@ -29,9 +29,8 @@ const Business = () => (
       </div>
 
       <div className={layout.sectionInfo}>  {/*div samte chap*/}
-        <h2 className={`${styles.heading2} text-right persian-font`}>شما کار رو انجام بدید<br className='sm:block' hidden /> ما پول رو مدیریت میکنیم</h2>
-        <p className={`${styles.paragraph} max-w-[470px] mt-5 text-right persian-font`}>با کارت اعتباری مناسب، می توانید زندگی مالی خود را با ایجاد اعتبار، کسب پاداش و پس انداز پول بهبود بخشید. اما با صدها کارت اعتباری در بازار
-        </p>
+        <h2 className={`${styles.heading2} text-right persian-font`}>با خیال راحت سیستم و<br className='sm:block' hidden /> تجهیزاتت رو کامل کن</h2>
+        <p className={`${styles.paragraph} max-w-[470px] mt-5 text-right persian-font`}>با ارائه بهترین محصولات و خدمات تخصصی، تجربه‌ای بی‌نظیر و مطمئن برای شما فراهم می‌کنیم تا با خیال راحت سیستم خود را به‌روز و کامل کنید</p>
         <Button styles='mt-10' />
       </div>
 
